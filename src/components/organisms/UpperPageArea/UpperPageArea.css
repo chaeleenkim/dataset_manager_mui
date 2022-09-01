@@ -1,0 +1,21 @@
+.UpperPageArea {
+  display: flex;
+  align-items: center;
+
+  margin-bottom: 50px;
+}
+
+.UpperPageArea .UpperPageAreaText {
+  width: 132px;
+  height: 24px;
+
+  margin-right: 27px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  /* identical to box height, or 100% */
+
+  color: #000000;
+}
